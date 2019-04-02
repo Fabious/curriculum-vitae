@@ -5,13 +5,13 @@
 ### Compétences
 
 * Développement front :
-  *  Javascript (Natif, React, jQuery)
+  * Javascript (Natif, React, jQuery)
   * HTML
   * CSS (CSS3, Sass, Less)
 
 * Développement back :
-  * NodeJS
-  * PHP
+  * NodeJS / GrapQL
+  * PHP / Python / Ruby
   * SQL
 
 * Design d'interface UI/UX
