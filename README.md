@@ -1,35 +1,48 @@
+
 # Fabien Kovacic :man:
 ## Développeur front, webdesigner, intégrateur
 
 ### Compétences
 
 * Développement front :
+  *  Javascript (Natif, React, jQuery)
   * HTML
-  * CSS (CSS3, SASS)
-  *  Javascript (Natif, jQuery)
+  * CSS (CSS3, Sass, Less)
+
 * Développement back :
+  * NodeJS
   * PHP
   * SQL
+
 * Design d'interface UI/UX
 
-### Expériences professionelles
-* Octobre 2016 - Aujourd'hui — CPAM de Calais
-Développeur web
-Amélioration et évolution de l'intranet pour la CPAM de Calais(sécurité sociale)
+### Expériences professionnelles
+
+* Avril 2018 - Aujourd'hui — Coopérative des Tilleuls
+	* Développeur Front
+	* Nombreuses missions Javascript / React / GraphQL
+
+* Octobre 2016 - Mars 2017 — CPAM de Calais
+	* Développeur web
+	* Amélioration et évolution de l'intranet pour la CPAM de Calais(sécurité sociale)
+
 * Novembre 2013 - Février 2014 — Gotek7
-Développeur web / Webdesigner
-Mission chez le client ayant pour but de mettre en place le site e-commerce de la société
+	* Développeur web / Webdesigner
+	* Mission chez le client ayant pour but de mettre en place le site e-commerce de la société
+
 * Janvier 2012 - Juillet 2013 — Reference HIT
-Développeur Front, webdesigner
-Conception et réalisation de nombreux sites internet
+	* Développeur Front, webdesigner
+	* Conception et réalisation de nombreux sites internet
+
 * Mai 2011 - Novembre 2011 — Mairie de Calais
-Assistant base de donnée
-Développement d'outils en VBA Access<br>
-Gestion de base de donnée SQL
+	* Assistant base de donnée
+	* Développement d'outils en VBA Access<br>
+	* Gestion de base de donnée SQL
+
 * Juillet 2008 - Mars 2010 — Naxeo
-Intégrateur / Concepteur multimédia
-Intégration de sites internet et newsletters
-Développement d'animations Flash
+	* Intégrateur / Concepteur multimédia
+	* Intégration de sites internet et newsletters
+	* Développement d'animations Flash
 
 ### Formations
 * 2010
@@ -47,3 +60,4 @@ Baccalauréat Technologique
 * Informatique
 * Musique
 * Arts visuels
+* Yoga
